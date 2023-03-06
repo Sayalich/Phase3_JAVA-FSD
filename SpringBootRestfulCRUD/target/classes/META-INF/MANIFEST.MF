@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: AE878AN
+Build-Jdk: 17.0.6
+Implementation-Title: SpringBootRestfulCRUD
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.onlyxcodes
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRestfulCRUD
+Created-By: Maven Integration for Eclipse
+
